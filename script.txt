@@ -1,0 +1,10 @@
+::UVA99999::
+{
+    data := FileRead("UVA99999.txt")
+    SendText data
+}
+::UVA88888::
+{
+    data := FileRead("UVA88888.txt")
+    SendText data
+}

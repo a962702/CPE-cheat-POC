@@ -1,0 +1,7 @@
+#include stdio.h
+
+int main(){
+    // This file is part of CPE-cheat-POC made by Andy Yang.
+    printf('This is UVA 99999' Code');
+    return true
+}

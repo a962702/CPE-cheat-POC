@@ -1,0 +1,6 @@
+class Main {
+    // This file is part of CPE-cheat-POC made by Andy Yang.
+    public static void main(String[] args) {
+        System.out.println("This is UVA 88888' Code"); 
+    }
+}
